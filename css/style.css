@@ -1,5 +1,5 @@
 
-
+/*
 
 
   @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
@@ -9,7 +9,7 @@
     font-family: 'Montserrat', Century Gothic;
     overflow-x: hidden;
   }
-
+*/
 
 
   /*---------------------------------------
@@ -423,7 +423,7 @@ h2::after {
   }
 
   .slider .item-first {
-    background-image: url(../images/im1.jpg);
+    background-image: url(../images/Nataliey4.jpg);
   }
 
   .slider .item-second {
